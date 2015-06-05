@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="lesson25_springMXV环境搭建"
+  id="myeclipse.1433294631199"
+  context-root="/mvc"
+  j2ee-spec="5.0"
+  archive="lesson25_springMXV环境搭建.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
